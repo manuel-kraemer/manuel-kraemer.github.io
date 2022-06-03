@@ -1,0 +1,11 @@
+#sidebarContainer {
+	float: left;
+}
+
+#container {
+	background: #ffffff;
+}
+#contentContainer {
+	margin-left: 231px;
+	margin-right: 0px;
+}
